@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(52, 44, 44);
+    height: 100%;
+    width: 100%;
+}
+.name p{
+    color: rgb(90, 239, 57);
+    font-size: 500%;
+    margin-left: 8%;
+    margin-top: 15%;
+    font-weight: 800;
+}
+.text1{
+    color: aliceblue;
+}
