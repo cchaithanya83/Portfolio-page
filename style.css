@@ -1,15 +1,145 @@
-body{
-    background-color: rgb(52, 44, 44);
-    height: 100%;
-    width: 100%;
+@media screen and (max-width:1800px ){
+    body{
+        background-color: rgb(52, 44, 44);
+    }
+    .header {
+        position: fixed;
+        top: 0px;
+        padding-top: 20px;
+        width: 100%;
+
+    }  
+
+
+
+    a{
+        color: aliceblue;
+        text-decoration: none;
+    }
+    .projec{
+        float: right;
+        margin-right: 60px;
+        font-size: 30px;
+        color: rgb(158, 160, 163);
+    } 
+    .edu{
+        float: right;
+        margin-right: 60px;
+        font-size: 30px;
+        color: rgb(158, 160, 163);
+    }
+    .home1{
+        float: right;
+        margin-right: 60px;
+        font-size: 30px;
+        color: rgb(158, 160, 163);
+    }
+
+
+
+
+    .projec :hover{
+        float: right;
+        background-color: rgb(236, 21, 136);
+        border-radius: 10px;
+        padding: 5px;
+
+    } 
+    .edu :hover{
+        float: right;
+        background-color: rgb(211, 117, 82);
+        border-radius: 10px;
+        padding: 5px;
+
+    }
+    .home1 :hover{
+        float: right;
+        background-color: rgb(81, 163, 234);
+        border-radius: 10px;
+        padding: 5px;
+
+    }
+
+
+ 
+    .name{
+        height: fit-content;
+        color: rgb(90, 239, 57);
+        font-size: 200%;
+        margin-left: 8%;
+        margin-top: 15%;
+        font-weight: 800;
+    }
+    .text1{
+        color: rgb(158, 160, 163);
+        margin-left: 8%;
+        font-size: 200%;
+    }
+   
 }
-.name p{
-    color: rgb(90, 239, 57);
-    font-size: 500%;
-    margin-left: 8%;
-    margin-top: 15%;
-    font-weight: 800;
-}
-.text1{
-    color: aliceblue;
+
+
+@media screen and (max-width: 900px){
+    body{
+        background-color: rgb(52, 44, 44);
+    }
+    
+    .name{
+        height: fit-content;
+        color: rgb(90, 239, 57);
+        font-size: 20px;
+        margin-left: 8%;
+        margin-top: 150px;
+        font-weight: 800;
+    }
+    .text1{
+        color: rgb(158, 160, 163);
+        margin-left: 8%;
+        font-size: 20px;
+    }
+   
+    a{
+        color: aliceblue;
+        text-decoration: none;
+    }
+    .projec{
+        float: right;
+        margin-right: 25px;
+        font-size: 25px;
+        color: rgb(158, 160, 163);
+    } 
+    .edu{
+        float: right;
+        margin-right: 25px;
+        font-size: 25px;
+        color: rgb(158, 160, 163);
+    }
+    .home1{
+        float: right;
+        margin-right: 25px;
+        font-size: 25px;
+        color: rgb(158, 160, 163);
+    }
+    .projec :hover{
+        float: right;
+        background-color: rgb(236, 21, 136);
+        border-radius: 10px;
+        padding: 2px;
+
+    } 
+    .edu :hover{
+        float: right;
+        background-color: rgb(211, 117, 82);
+        border-radius: 10px;
+        padding: 2px;
+
+    }
+    .home1 :hover{
+        float: right;
+        background-color: rgb(81, 163, 234);
+        border-radius: 10px;
+        padding: 2px;
+
+    }
+
 }
