@@ -2,6 +2,11 @@
     body{
         background-color: rgb(52, 44, 44);
     }
+    .page1{
+        height: 90%;
+        
+
+    }
     .header {
         position: fixed;
         top: 0px;
@@ -61,22 +66,49 @@
     }
 
 
- 
+    .im{
+        margin-left: 8%;
+        margin-top: 13%;
+        color: aliceblue;
+        font-size: 200%;
+    }
     .name{
         height: fit-content;
-        color: rgb(90, 239, 57);
-        font-size: 200%;
+        color: rgb(249, 251, 248);
+        font-size: 400%;
         margin-left: 8%;
-        margin-top: 15%;
+        margin-top: 0.1%;
         font-weight: 800;
+        top: 10px;
     }
     .text1{
-        color: rgb(158, 160, 163);
+        margin-top: 5%;
+        color: rgb(131, 134, 139);
         margin-left: 8%;
         font-size: 200%;
     }
+
+
+    .social{
+        margin-left: 8%;
+        height: 10%;
+    }
+    .logo{
+        height: 70px;
+    }
+    .logo1{
+        height: 80px;
+    }
+    .page2{
+        margin-top: 18%;
+
+    }
+
    
 }
+
+
+
 
 
 @media screen and (max-width: 900px){
@@ -84,19 +116,7 @@
         background-color: rgb(52, 44, 44);
     }
     
-    .name{
-        height: fit-content;
-        color: rgb(90, 239, 57);
-        font-size: 20px;
-        margin-left: 8%;
-        margin-top: 150px;
-        font-weight: 800;
-    }
-    .text1{
-        color: rgb(158, 160, 163);
-        margin-left: 8%;
-        font-size: 20px;
-    }
+
    
     a{
         color: aliceblue;
@@ -140,6 +160,26 @@
         border-radius: 10px;
         padding: 2px;
 
+    }
+
+
+    .name{
+        height: fit-content;
+        color: rgb(90, 239, 57);
+        font-size: 20px;
+        margin-left: 8%;
+        margin-top: 150px;
+        font-weight: 800;
+    }
+    .text1{
+        color: rgb(158, 160, 163);
+        margin-left: 8%;
+        font-size: 20px;
+    }
+
+    .social{
+        margin-left: 8%;
+       
     }
 
 }
