@@ -163,23 +163,41 @@
     }
 
 
+    .im{
+        margin-left: 8%;
+        margin-top: 30%;
+        color: aliceblue;
+        font-size: 170%;
+    }
     .name{
         height: fit-content;
-        color: rgb(90, 239, 57);
-        font-size: 20px;
+        color: rgb(249, 251, 248);
+        font-size: 300%;
         margin-left: 8%;
-        margin-top: 150px;
+        margin-top: 0.1%;
         font-weight: 800;
+        top: 10px;
     }
     .text1{
-        color: rgb(158, 160, 163);
+        margin-top: 5%;
+        color: rgb(131, 134, 139);
         margin-left: 8%;
-        font-size: 20px;
+        font-size: 160%;
     }
 
     .social{
         margin-left: 8%;
-       
+        height: 8%;
+    }
+    .logo{
+        height: 60px;
+    }
+    .logo1{
+        height: 70px;
+    }
+    .page2{
+        margin-top: 18%;
+
     }
 
 }
