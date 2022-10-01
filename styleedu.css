@@ -31,15 +31,16 @@
         float: right;
         margin-right: 60px;
         font-size: 30px;
+        background-color:rgb(211, 117, 82) ;
+        border-radius: 10px;
+        padding: 3px;
         color: rgb(158, 160, 163);
     }
     .home1{
         float: right;
         margin-right: 60px;
         font-size: 30px;
-        background-color:rgb(81, 163, 234) ;
-        border-radius: 10px;
-        padding: 3px;
+
         color: rgb(158, 160, 163);
     }
 
@@ -68,44 +69,6 @@
 
     }
 
-
-    .im{
-        margin-left: 8%;
-        margin-top: 13%;
-        color: aliceblue;
-        font-size: 200%;
-    }
-    .name{
-        height: fit-content;
-        color: rgb(249, 251, 248);
-        font-size: 400%;
-        margin-left: 8%;
-        margin-top: 0.1%;
-        font-weight: 800;
-        top: 10px;
-    }
-    .text1{
-        margin-top: 5%;
-        color: rgb(131, 134, 139);
-        margin-left: 8%;
-        font-size: 200%;
-    }
-
-
-    .social{
-        margin-left: 8%;
-        height: 10%;
-    }
-    .logo{
-        height: 70px;
-    }
-    .logo1{
-        height: 80px;
-    }
-    .page2{
-        margin-top: 18%;
-
-    }
 
    
 }
@@ -135,6 +98,9 @@
         float: right;
         margin-right: 25px;
         font-size: 25px;
+        background-color:rgb(211, 117, 82) ;
+        border-radius: 10px;
+        padding: 1.5px;
         color: rgb(158, 160, 163);
     }
     .home1{
@@ -166,41 +132,6 @@
     }
 
 
-    .im{
-        margin-left: 8%;
-        margin-top: 50%;
-        color: aliceblue;
-        font-size: 170%;
-    }
-    .name{
-        height: fit-content;
-        color: rgb(249, 251, 248);
-        font-size: 300%;
-        margin-left: 8%;
-        margin-top: 0.1%;
-        font-weight: 800;
-        top: 10px;
-    }
-    .text1{
-        margin-top: 5%;
-        color: rgb(131, 134, 139);
-        margin-left: 8%;
-        font-size: 160%;
-    }
-
-    .social{
-        margin-left: 8%;
-        height: 8%;
-    }
-    .logo{
-        height: 60px;
-    }
-    .logo1{
-        height: 70px;
-    }
-    .page2{
-        margin-top: 18%;
-
-    }
+  
 
 }
